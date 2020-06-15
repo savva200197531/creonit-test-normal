@@ -1,0 +1,4 @@
+[2020-05-26 19:41:40] layer "+7 3852 28-30-28": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2020-05-26 19:41:40] layer "+7 3852 28-30-29": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2020-05-26 19:41:40] layer "Facebook Letter Logo. Attribute as SimpleIcon from Flaticon.com copy": Expected end of input but "c" found.
+[2020-05-26 19:41:40] layer "Vk.com Logotype. Attribute as Icons8 from Flaticon.com copy": Expected end of input but "c" found.
